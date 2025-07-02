@@ -2,13 +2,15 @@ package src;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Set;
-
-import src.Controllers.Sets;
+import src.Controllers.*;
 
 
 public class Main {
     public static void main(String[] args) {
-        Sets set = new Sets();
+        ContactoController agenda = new ContactoController();
+        
+
+          /* 
         System.out.println("-------------HashSet---------------");
         runHashSet(set);
         System.out.println("-----------LinkedHashSet---------------");
@@ -19,7 +21,9 @@ public class Main {
         runTreeSetComparador(set);
         System.out.println("------Comparador Inversa---------");
         runTreeSetComparadorInv(set);
-        
+        */
+
+
        
 
     }

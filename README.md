@@ -37,6 +37,7 @@ Se utilizan ejemplos simples con palabras para visualizar cómo cada estructura 
 
 ## Consola
 !["Imagen"](Consola.png)
+!["Imagen"](Captura2.png)
 
 
 ## 🚀 Ejecución
